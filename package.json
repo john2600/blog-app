@@ -1,7 +1,6 @@
 {
   "name": "blog-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.734.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john2600/blog-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/john2600/blog-app/issues"
+  },
+  "homepage": "https://github.com/john2600/blog-app#readme",
+  "description": ""
 }
